@@ -7,3 +7,5 @@
 <p>---> Add Task</p>
 <p>---> Delete Task</p>
 <p>---> Mark as completed</p>
+
+<img src="https://user-images.githubusercontent.com/97526754/182717447-a933bba5-101c-4439-b57d-cbace817f073.png" />
